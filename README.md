@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=elioteloi&show_icons=true&theme=tokyonight"/>  
+<img align="left" width="48%" style="max-width: 100%;"  src="https://github-readme-stats.vercel.app/api?username=elioteloi&show_icons=true&theme=tokyonight"/>  
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&exclude_repo=elioteloi,anuraghazra.github.io"/>
+<img align="left" width="40%" style="max-width: 100%;" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&exclude_repo=elioteloi,anuraghazra.github.io"/>
     
 <img align="left" margin-top="100px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
