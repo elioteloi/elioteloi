@@ -1,5 +1,5 @@
 # Hi there 👋
-<img align="left" src="https://img.shields.io/badge/node.js-23323330.svg?style=for-the-badge&logo=node.js&logoColor=2361DAFB"/>
+![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
 
