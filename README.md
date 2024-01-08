@@ -4,11 +4,11 @@
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
 
 
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img align="left" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/react_native-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-23323330.svg.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <img align="left" width="48%" style="max-width: 100%;"  src="https://github-readme-stats.vercel.app/api?username=elioteloi&show_icons=true&theme=tokyonight"/>  
 
