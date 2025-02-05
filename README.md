@@ -20,13 +20,12 @@
       />
       <img
         width="48%"
-        style="max-width: 100%"
+        style="max-width: 100%; vertical-align: top"
         src="https://github-readme-stats.vercel.app/api?username=elioteloi&show_icons=true&theme=tokyonight"
       />
       <img
         width="40%"
-        style="max-width: 100%"
-        style="max-width: 100%"
+        style="max-width: 100%; vertical-align: top"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&exclude_repo=elioteloi,anuraghazra.github.io"
       />
     </div>
