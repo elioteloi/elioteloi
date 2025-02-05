@@ -5,7 +5,18 @@
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img
+      width="48%"
+      style="max-width: 100%"
+      src="https://github-readme-stats.vercel.app/api?username=elioteloi&show_icons=true&theme=tokyonight"
+    />
 
+    <img
+      width="40%"
+      style="max-width: 100%"
+      style="max-width: 100%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&exclude_repo=elioteloi,anuraghazra.github.io"
+    />
 <!--
 **elioteloi/elioteloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
