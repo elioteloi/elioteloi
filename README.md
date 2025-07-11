@@ -7,21 +7,6 @@
       <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" />      
       <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" />      
       <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" />      
-      <img
-        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      />
-      <img
-        src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      />
-      <img
-        src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      />
-      <img
-        src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      />
           <img
         width="48%"
         style="max-width: 100%"
