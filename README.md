@@ -1,6 +1,6 @@
 # Hi there 👋
 <div>
-      <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linux.svg" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />      
       <img
         src="https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23ffffff"
       />
