@@ -1,10 +1,12 @@
-# Hi there 👋
+# Hi there, i am Eliot 👋
 <div>
-      <h3>Languages and Tools:</h3>
       <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />      
-      <img
-        src="https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23ffffff"
-      />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" />      
+      <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" />      
+      <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" />      
+      <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" />      
+      <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" />      
       <img
         src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
       />
