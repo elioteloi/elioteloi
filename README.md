@@ -1,8 +1,8 @@
-# Hi there, i am Eliot 👋
+# Hi there, i'm Eliot 👋
  <div>
             <h3>About me:</h3>
             <p>I am a French web developer, based  in Brazil, I work mostly with Typescript, React-Native, NodeJS and MySQL.</p>
-            <p>I love open source and create stuff like Home lab<./p>
+            <p>I love open source and create stuff like Home lab.</p>
       <div>     
       </div>
       <div>
@@ -22,17 +22,17 @@
       <div>
             <h3>Project i am currently working on:</h3>
              <ul>
-                  <li>A NAS server created in nodejs, with an app Desktop and phone</li>
-                  <li>My terminal portfolio</li>
-                  <li>A backup that automatically backs up and versions your files written in bash</li>
+                  <li>A NAS server created in nodejs, with an app Desktop and phone.</li>
+                  <li>My terminal portfolio.</li>
+                  <li>A backup that automatically backs up and versions your files written in bash.</li>
             </ul> 
       </div>
         <div>
             <h3>Github stats:</h3>
             <img
-              width="40%"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&exclude_repo=elioteloi,anuraghazra.github.io"
-            />
+  width="40%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite&exclude_repo=elioteloi,anuraghazra.github.io"
+/>
         </div>
     </div>
     
