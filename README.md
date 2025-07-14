@@ -12,9 +12,8 @@
               <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" />      
               <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" />      
               <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" />      
-              <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" />      
-              <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" />   
-              <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />  
+              <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" />     
+            <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />  
             </div>    
       </div>
       <div>
@@ -26,7 +25,7 @@
              <ul>
                   <li>A NAS server created in nodejs, with an app Desktop and phone.</li>
                   <li>My terminal portfolio.</li>
-                  <li>A backup that automatically backs up and versions your files written in bash.</li>
+                  <li>A script that automatically backs up and versions your files written in bash.</li>
             </ul> 
       </div>
         <div>
