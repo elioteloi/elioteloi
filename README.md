@@ -23,7 +23,7 @@
       <div>
             <h2>Project i am currently working on:</h2>
              <ul>
-                  <li>A NAS server created in nodejs, with an app Desktop and phone.</li>
+                  <li>A NAS server created in nodejs, and an app for Desktop and phone.</li>
                   <li>My terminal portfolio.</li>
                   <li>A script that automatically backs up and versions your files written in bash.</li>
             </ul> 
