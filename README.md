@@ -28,13 +28,6 @@
                   <li>A script that automatically backs up and versions your files written in bash.</li>
             </ul> 
       </div>
-        <div>
-            <h2>Github stats:</h2>
-            <img
-  width="40%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite&exclude_repo=elioteloi,anuraghazra.github.io"
-/>
-        </div>
     </div>
     
 <!--
